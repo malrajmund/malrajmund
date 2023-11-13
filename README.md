@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rajmund</h1>
 <h3 align="center">A passionate frontend developer from Poland</h3>
 
-- 🔭 I’m currently working on **Spotify Profile**
+- 🔭 I’m currently working on [Spotify Profile](https://github.com/malrajmund/spotify-profile)
 
 - 🌱 I’m currently learning **GraphQL and Strapi**
 
